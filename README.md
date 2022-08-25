@@ -1,2 +1,2 @@
 My first readme
-Git hub is finnest toll for software engineer
+Git hub is a must to have for software engineer
